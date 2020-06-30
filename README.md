@@ -85,4 +85,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information.
 ## License
 
 Distributed under the [Unknown](https://choosealicense.com/) License.
-See [`LICENSE.md`](LICENSE.md) for more information.
+See [`LICENSE`](LICENSE) for more information.
