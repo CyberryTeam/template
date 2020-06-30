@@ -2,6 +2,18 @@
 
 Short description of the project
 
+## Table of Contents
+
+- [About](#about)
+  - [Built with](#built-with)
+- [Getting started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Testing](#testing)
+- [Using](#using)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## About
 
 Description of the project
