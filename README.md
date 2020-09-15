@@ -9,7 +9,6 @@ Short description of the project
 - [Getting started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Testing](#testing)
 - [Using](#using)
 - [Contributing](#contributing)
 - [License](#license)
@@ -55,20 +54,6 @@ sudo pacman -S library
 git clone https://github.com/username/repository.git
 ```
 
-## Testing
-
-Run the tests:
-
-```shell script
-test run .
-```
-
-Run coding style tests:
-
-```shell script
-lint run .
-```
-
 ## Using
 
 See available commands:
@@ -80,9 +65,9 @@ See available commands:
 ## Contributing
 
 Bug reports, feature requests, other issues and pull requests are welcome.
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## License
 
 Distributed under the [Unknown](https://choosealicense.com/) License.
-See [`LICENSE`](LICENSE) for more information.
+See [LICENSE](LICENSE) for more information.
